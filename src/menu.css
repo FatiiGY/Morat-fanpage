@@ -1,0 +1,19 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f1f1f1;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menu li {
+    margin: 0 10px;
+  }
+  
+  .menu li a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
